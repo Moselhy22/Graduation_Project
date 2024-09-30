@@ -1,6 +1,6 @@
 # ADAS Graduation Project
 
-<img src="https://media.giphy.com/media/0HR6cjY8Q1XQlmjVVa/giphy.gif" alt="GIF" width="800" />
+<img src="https://media.giphy.com/media/0HR6cjY8Q1XQlmjVVa/giphy.gif" alt="GIF" width="1000" />
 
 
 ### Websites to Create Presentations
